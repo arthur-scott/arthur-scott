@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I am Arthur Scott👋
+
+* PhD student in Fluid Dynamics at the University of Leeds
+* Studying convection in mushy layers with applications to Arctic sea ice
+* Using lattice Boltzmann method (LBM) in C++
 
 <!--
 **arthur-scott/arthur-scott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
