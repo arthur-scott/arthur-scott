@@ -1,4 +1,4 @@
-### Hi there, I am Arthur Scott👋
+### Hi there, I'm Arthur Scott👋
 
 * PhD student in Fluid Dynamics at the University of Leeds
 * Studying convection in mushy layers with applications to Arctic sea ice
